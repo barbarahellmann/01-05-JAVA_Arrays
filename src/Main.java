@@ -6,6 +6,12 @@ public class Main {
 
         int sum = numbers[1] + numbers[0];
         System.out.println(sum);
+        numbers[2] = 5;
+
+        int[] nums = new int[5];
+        nums[0] = 5;
+        nums[1] = 10;
+        nums[2] = 4;
 
     }
 }
