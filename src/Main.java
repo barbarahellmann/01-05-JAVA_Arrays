@@ -14,12 +14,14 @@ public class Main {
         nums[2] = 4;
         nums[3] = 20;
 
+        printNumbers(nums);
     }
 
     public static void printNumbers(int[] currywurst) {
-        System.out.println(currywurst[0]);
-        System.out.println(currywurst[1]);
-        System.out.println(currywurst[2]);
-        System.out.println(currywurst[3]);
+
+        //Zähler;       Läuft solange x;     Mache nach jedem Durchlauf
+        for (int i = 0; i<currywurst.length; i++){
+            System.out.println(currywurst[i]);
+        }
     }
 }
