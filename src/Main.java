@@ -25,6 +25,8 @@ public class Main {
         }
 
         System.out.println("=====================");
+
+        //Erstelle ein x für jeden Eintrag in : Datensammlung
         for (int num : currywurst) {
             System.out.println(num);
         }

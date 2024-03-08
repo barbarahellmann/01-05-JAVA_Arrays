@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709888269980</updated>
-      <workItem from="1709888271178" duration="1994000" />
+      <workItem from="1709888271178" duration="2303000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <option name="closed" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709890255017</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="For Each Loop">
+      <option name="closed" value="true" />
+      <created>1709890569627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709890569627</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +105,7 @@
     <MESSAGE value="different options to write arrays" />
     <MESSAGE value="Arrays in a long way" />
     <MESSAGE value="For Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="For Loop" />
+    <MESSAGE value="For Each Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Each Loop" />
   </component>
 </project>
