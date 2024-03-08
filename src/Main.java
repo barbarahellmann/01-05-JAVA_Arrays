@@ -23,5 +23,11 @@ public class Main {
         for (int i = 0; i<currywurst.length; i++){
             System.out.println(currywurst[i]);
         }
+
+        System.out.println("=====================");
+        for (int num : currywurst) {
+            System.out.println(num);
+        }
+
     }
 }
