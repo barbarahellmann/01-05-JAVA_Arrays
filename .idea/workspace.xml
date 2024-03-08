@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a2723ef-0f26-46ed-a92d-dc041cd204fc" name="Changes" comment="" />
+    <list default="true" id="2a2723ef-0f26-46ed-a92d-dc041cd204fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayTask.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -52,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709888269980</updated>
-      <workItem from="1709888271178" duration="2303000" />
+      <workItem from="1709888271178" duration="4550000" />
     </task>
     <task id="LOCAL-00001" summary="First steps">
       <option name="closed" value="true" />
@@ -94,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709890569627</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="For Each Loop mit Kommentar">
+      <option name="closed" value="true" />
+      <created>1709890732866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709890732866</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +125,7 @@
     <MESSAGE value="Arrays in a long way" />
     <MESSAGE value="For Loop" />
     <MESSAGE value="For Each Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="For Each Loop" />
+    <MESSAGE value="For Each Loop mit Kommentar" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Each Loop mit Kommentar" />
   </component>
 </project>
